@@ -13,7 +13,7 @@ git remote add upstream <중앙 원격 저장소 url>
 그 후 항상 잘 되었는지 git remote -v 로 확인할 것
 
 #브랜치
-: 기존 코드의 사본으로 만든 독립적ㅇ니 개발 공간
+: 기존 코드의 사본으로 만든 독립적인 개발 공간
 git branch: 로컬 브랜치 목록
 git checkout -b <name>: 새로운 브랜치 생성 후 해당 브랜치로 작업 위치 이동
 git branch -d <name> : 로컬 브런치 삭제
