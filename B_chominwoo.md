@@ -14,3 +14,4 @@
 4. git checkout -b 브랜치이름
 5. 커밋, 푸쉬
 6. Pull Request
+7. end
