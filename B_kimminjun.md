@@ -29,5 +29,5 @@ git checkout -b <이름>
 git pull <팀원 repo url> <팀원의 작업 branch 이름>
 9. 로컬 저장소의 main 브랜치에서 upstream의 최신 코드 받아오기.
 git checkout main -> 작업의 위치를 main으로 이동
-git pull upstream main -> upstream의 코드 pull 받기
+git pull upstream main -> upstream의 코드 pull 받기!!
 10. 예전 브랜치 삭제, 새로운 브랜치 생성 후 작업
