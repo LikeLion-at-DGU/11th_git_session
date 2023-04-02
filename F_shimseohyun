@@ -1,0 +1,24 @@
+Github 공동 개발 방법
+
+중앙 원격 레포 포크
+개인 원격 레포 생성
+로컬 원격 저장소 생성
+
+git clone [개인 원격 저장소 url]
+git remote add upstream [중앙 원격 저장소 url]
+git remote add origin [개인 원격 저장소 url]
+git remote add upstream [중앙 원격 저장소 url]
+
+
+브랜치 생성
+git checkout -b [브랜치 이름]
+
+커밋 방법 
+git add . 
+git commit -m [커밋 메세지] 
+git push origin [브랜치 이름]
+
+저장소 반영 요청
+'Compare & pull request'
+
+관리자가 머지함
