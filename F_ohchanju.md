@@ -18,4 +18,5 @@ git branch: 로컬 브랜치 목록
 git checkout -b <name>: 새로운 브랜치 생성 후 해당 브랜치로 작업 위치 이동
 git branch -d <name> : 로컬 브런치 삭제
 
-commit message 통해 작업 내용 유추가 가능해야 함. 컨벤션 규칙 참고할 것s
+commit message 통해 작업 내용 유추가 가능해야 함. 컨벤션 규칙 참고할 것
+ 
